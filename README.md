@@ -1,7 +1,7 @@
 
 👋 **Introduction:**
 
-I'm Rabia Shafiq, currently pursuing a Master's in Bioinformatics.
+I'm Rabia Shafiq, currently pursuing  Master's in Bioinformatics.
 
 🌱 **What I've Learned:**
 
