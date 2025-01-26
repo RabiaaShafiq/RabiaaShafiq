@@ -1,6 +1,6 @@
 ###  Hi There!👋
   I'm Rabia Shafiq from Pakistan.
-  Pursuing a Master's in Bioinformatics, I am passionate about acquiring diverse skills for implementation in the healthcare sector.
+  Pursuing Master's in Bioinformatics, I am passionate about acquiring diverse skills for implementation in the healthcare sector.
   
 ### 🎓 **Currently Learning:** 
   Currently diving into the world of Git, and I must say, it's both exciting and fulfilling. Eager to delve deeper and expand my knowledge.
